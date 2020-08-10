@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=Sheet1 Member=Adder 1
+Removed Member From Class: ClassName=Sheet1 Member=AND 1
+Removed Member From Class: ClassName=Sheet1 Member=AND 2
+Removed Member From Class: ClassName=Sheet1 Member=AND 3
+Removed Member From Class: ClassName=Sheet1 Member=AND 4
+Removed Member From Class: ClassName=Sheet1 Member=AND 5
+Removed Member From Class: ClassName=Sheet1 Member=Input1
+Removed Member From Class: ClassName=Sheet1 Member=Input2
+Removed Member From Class: ClassName=Sheet1 Member=OR 1
+Removed Member From Class: ClassName=Sheet1 Member=power 1
+Removed Member From Class: ClassName=Sheet1 Member=XOR 1
+Added Component: Designator=Gate 1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component Gate 1 Component_1
+Added Room: Name=Sheet1

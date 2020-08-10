@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=NetA0_1 Pin=A0-1
+Removed Pin From Net: NetName=NetA0_1 Pin=A0-2
+Removed Pin From Net: NetName=NetA0_1 Pin=A0-4
+Removed Pin From Net: NetName=NetA0_1 Pin=A0-9
+Removed Pin From Net: NetName=BF0*AF0 Pin=OUTPUT-1
+Removed Pin From Net: NetName=Half adder Sum Pin=OUTPUT-2
+Removed Pin From Net: NetName=2C1 Pin=OUTPUT-3
+Removed Pin From Net: NetName=2C2 Pin=OUTPUT-4
+Removed Pin From Net: NetName=2C3 Pin=OUTPUT-5
+Removed Pin From Net: NetName=2C4 Pin=OUTPUT-6
+Removed Pin From Net: NetName=Full adder sum Pin=OUTPUT-7
+Removed Pin From Net: NetName=Full adder carry Pin=OUTPUT-8
+Removed Pin From Net: NetName=SC Pin=OUTPUT-9
+Added Component: Designator=OR1(Gate?)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OR2(Gate?)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUTPUT(HDR1X10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B1*A1 Pin=A1-6
+Added Pin To Net: NetName=GND Pin=AND-7
+Added Pin To Net: NetName=Vcc Pin=AND-14
+Added Pin To Net: NetName=NetA0_2 Pin=OR1-1
+Added Pin To Net: NetName=NetA0_1 Pin=OR1-2
+Added Pin To Net: NetName=NetA0_10 Pin=OR1-5
+Added Pin To Net: NetName=GND Pin=OR1-7
+Added Pin To Net: NetName=Vcc Pin=OR1-14
+Added Pin To Net: NetName=NetA1_1 Pin=OR2-1
+Added Pin To Net: NetName=NetA2_1 Pin=OR2-2
+Added Pin To Net: NetName=NetAF1_1 Pin=OR2-5
+Added Pin To Net: NetName=GND Pin=OR2-7
+Added Pin To Net: NetName=NetAF0_1 Pin=OR2-12
+Added Pin To Net: NetName=Vcc Pin=OR2-14
+Added Pin To Net: NetName=GND Pin=OR-7
+Added Pin To Net: NetName=Vcc Pin=OR-14
+Added Pin To Net: NetName=BF0*AF0 Pin=OUTPUT-1
+Added Pin To Net: NetName=Half adder Sum Pin=OUTPUT-2
+Added Pin To Net: NetName=2C1 Pin=OUTPUT-3
+Added Pin To Net: NetName=2C2 Pin=OUTPUT-4
+Added Pin To Net: NetName=2C3 Pin=OUTPUT-5
+Added Pin To Net: NetName=2C4 Pin=OUTPUT-6
+Added Pin To Net: NetName=Full adder sum Pin=OUTPUT-7
+Added Pin To Net: NetName=Full adder carry Pin=OUTPUT-8
+Added Pin To Net: NetName=SC Pin=OUTPUT-9
+Added Pin To Net: NetName=GND Pin=XOR-7
+Added Pin To Net: NetName=Vcc Pin=XOR-14
+Change Net Name : Old Net Name=NetA0_1 New Net Name=B1
+Change Net Name : Old Net Name=NetA0_2 New Net Name=B0
+Change Net Name : Old Net Name=NetA0_10 New Net Name=BF0
+Change Net Name : Old Net Name=NetA1_1 New Net Name=A1
+Change Net Name : Old Net Name=NetA2_1 New Net Name=A2
+Change Net Name : Old Net Name=NetAF0_1 New Net Name=AF0
+Change Net Name : Old Net Name=NetAF1_1 New Net Name=AF1
+Added Pin To Net: NetName=A0+A1+A2+AF0+AF1 Pin=AND-9
+Added Pin To Net: NetName=A0+A1+A2+AF0+AF1 Pin=OR2-8
+Added Net: Name=A0+A1+A2+AF0+AF1
+Added Pin To Net: NetName=A0+AF0 Pin=OR2-10
+Added Pin To Net: NetName=A0+AF0 Pin=OR2-11
+Added Net: Name=A0+AF0
+Added Pin To Net: NetName=A0 Pin=A0-1
+Added Pin To Net: NetName=A0 Pin=A0-2
+Added Pin To Net: NetName=A0 Pin=A0-4
+Added Pin To Net: NetName=A0 Pin=A0-9
+Added Pin To Net: NetName=A0 Pin=OR2-13
+Added Net: Name=A0
+Added Pin To Net: NetName=A1+A2+AF1 Pin=OR2-6
+Added Pin To Net: NetName=A1+A2+AF1 Pin=OR2-9
+Added Net: Name=A1+A2+AF1
+Added Pin To Net: NetName=A1+A2 Pin=OR2-3
+Added Pin To Net: NetName=A1+A2 Pin=OR2-4
+Added Net: Name=A1+A2
+Added Pin To Net: NetName=B0+B1+BF1 Pin=AND-10
+Added Pin To Net: NetName=B0+B1+BF1 Pin=OR1-6
+Added Net: Name=B0+B1+BF1
+Added Pin To Net: NetName=B0+B1 Pin=OR1-3
+Added Pin To Net: NetName=B0+B1 Pin=OR1-4
+Added Net: Name=B0+B1
+Added Pin To Net: NetName=~zero flag Pin=AND-8
+Added Pin To Net: NetName=~zero flag Pin=OUTPUT-10
+Added Net: Name=~zero flag
+Added Member To Class: ClassName=Sheet1 Member=Component 4 bit-binary adder Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component A0
+Added Member To Class: ClassName=Sheet1 Member=Component A1
+Added Member To Class: ClassName=Sheet1 Member=Component A2
+Added Member To Class: ClassName=Sheet1 Member=Component AF0
+Added Member To Class: ClassName=Sheet1 Member=Component AF1
+Added Member To Class: ClassName=Sheet1 Member=Component OR1 A2
+Added Member To Class: ClassName=Sheet1 Member=Component OR2 A2
+Added Room: Name=Sheet1

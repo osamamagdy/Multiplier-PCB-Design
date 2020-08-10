@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=AND1-7
+Removed Pin From Net: NetName=Vcc Pin=AND1-14
+Removed Pin From Net: NetName=GND Pin=AND2-7
+Removed Pin From Net: NetName=Vcc Pin=AND2-14
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=Sign Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=Fraction-A2
+Removed Pin From Net: NetName=Vcc Pin=Fraction-A3
+Removed Pin From Net: NetName=Vcc Pin=Fraction-B3
+Removed Pin From Net: NetName=Vcc Pin=Fraction-B4
+Removed Pin From Net: NetName=RPI Switch Pin=Fraction-Vcc
+Removed Pin From Net: NetName=GND Pin=NOT1-7
+Removed Pin From Net: NetName=Vcc Pin=NOT1-14
+Removed Member From Class: ClassName=Sheet1 Member=AND1
+Removed Member From Class: ClassName=Sheet1 Member=AND2
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Removed Member From Class: ClassName=Sheet1 Member=Fraction
+Removed Member From Class: ClassName=Sheet1 Member=NOT1
+Change Class Name : Old Net Name=Sheet1 New Net Name=integer layer
+Added Member To Class: ClassName=integer layer Member=Component Tens Component_1
+Added Member To Class: ClassName=integer layer Member=Component Units Component_1
+Added Room: Name=integer layer

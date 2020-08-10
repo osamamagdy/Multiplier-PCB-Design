@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=A1 NewDesignator=A2
+Change Component Designator: OldDesignator=A2 NewDesignator=A1
+Change Component Designator: OldDesignator=A3 NewDesignator=A0
+Change Component Designator: OldDesignator=B2 NewDesignator=B0
+Change Net Name : Old Net Name=NetA1_1 New Net Name=NetA0_1
+Change Net Name : Old Net Name=NetA1_2 New Net Name=NetA2_2
+Change Net Name : Old Net Name=NetA2_2 New Net Name=NetA1_2
+Change Net Name : Old Net Name=NetA3_2 New Net Name=NetA0_2
+Added Room: Name=Sheet1

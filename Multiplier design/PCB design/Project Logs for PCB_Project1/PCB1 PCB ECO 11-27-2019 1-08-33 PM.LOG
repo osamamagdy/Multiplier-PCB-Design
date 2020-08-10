@@ -1,0 +1,8 @@
+Added Component: Designator=Gate 1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Gate 2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Net: Name=NetGate 1_2
+Added Net: Name=NetGate 1_7
+Added Member To Class: ClassName=Sheet1 Member=Component Gate 1 Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component Gate 2 Component_1

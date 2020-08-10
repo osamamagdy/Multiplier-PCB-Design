@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=Cap1-2
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=NetPower Switch1_2 Pin=R1-2
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Added Pin To Net: NetName=GND Pin=Power Switch1-3
+Added Member To Class: ClassName=Sheet1 Member=Component 4 bit-binary adder Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component A0
+Added Member To Class: ClassName=Sheet1 Member=Component A1
+Added Member To Class: ClassName=Sheet1 Member=Component A2
+Added Member To Class: ClassName=Sheet1 Member=Component AF0
+Added Member To Class: ClassName=Sheet1 Member=Component AF1
+Added Member To Class: ClassName=Sheet1 Member=Component OUTPUT Header 10
+Added Room: Name=Sheet1

@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=NetLabel2 Pin=A2-3
+Added Net: Name=NetLabel2
+Added Pin To Net: NetName=NetLabel3 Pin=A2-6
+Added Net: Name=NetLabel3
+Added Pin To Net: NetName=NetLabel4 Pin=A1-6
+Added Net: Name=NetLabel4
+Added Pin To Net: NetName=NetLabel5 Pin=A1-3
+Added Net: Name=NetLabel5
+Added Member To Class: ClassName=Sheet1 Member=Component A0
+Added Member To Class: ClassName=Sheet1 Member=Component A1
+Added Member To Class: ClassName=Sheet1 Member=Component A2
+Added Member To Class: ClassName=Sheet1 Member=Component AF0
+Added Member To Class: ClassName=Sheet1 Member=Component AF1
+Added Room: Name=Sheet1

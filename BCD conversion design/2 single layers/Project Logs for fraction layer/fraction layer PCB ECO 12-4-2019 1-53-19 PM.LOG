@@ -1,0 +1,149 @@
+Added Component: Designator=AND1(Gate?)
+Add component. Clean all parameters for all variants
+Added Component: Designator=AND2(Gate?)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Fraction1(7483)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Fraction In1(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=NOT1(Gate?)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OR1(Gate?)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Power1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=RPI1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Sign flag1(LED-0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=XOR1(Gate?)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Zero flag1(LED-0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=2 Pin=Fraction1-C3
+Added Pin To Net: NetName=2 Pin=OR1-3
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=Fraction1-A4
+Added Pin To Net: NetName=3 Pin=OR1-11
+Added Net: Name=3
+Added Pin To Net: NetName=CF0&~CF1&CF2 Pin=AND1-8
+Added Pin To Net: NetName=CF0&~CF1&CF2 Pin=OR1-12
+Added Net: Name=CF0&~CF1&CF2
+Added Pin To Net: NetName=CF0&~CF1 Pin=AND1-10
+Added Pin To Net: NetName=CF0&~CF1 Pin=AND2-6
+Added Pin To Net: NetName=CF0&~CF1 Pin=OR1-2
+Added Net: Name=CF0&~CF1
+Added Pin To Net: NetName=CF0^CF2 Pin=AND1-5
+Added Pin To Net: NetName=CF0^CF2 Pin=NOT1-13
+Added Pin To Net: NetName=CF0^CF2 Pin=XOR1-3
+Added Net: Name=CF0^CF2
+Added Pin To Net: NetName=CF0 Pin=AND2-1
+Added Pin To Net: NetName=CF0 Pin=AND2-4
+Added Pin To Net: NetName=CF0 Pin=Fraction In1-2
+Added Pin To Net: NetName=CF0 Pin=NOT1-1
+Added Pin To Net: NetName=CF0 Pin=XOR1-1
+Added Net: Name=CF0
+Added Pin To Net: NetName=CF1&~(CF0^CF2) Pin=AND1-3
+Added Pin To Net: NetName=CF1&~(CF0^CF2) Pin=OR1-9
+Added Net: Name=CF1&~(CF0^CF2)
+Added Pin To Net: NetName=CF1 Pin=AND1-1
+Added Pin To Net: NetName=CF1 Pin=AND2-2
+Added Pin To Net: NetName=CF1 Pin=AND2-9
+Added Pin To Net: NetName=CF1 Pin=Fraction In1-3
+Added Pin To Net: NetName=CF1 Pin=NOT1-3
+Added Net: Name=CF1
+Added Pin To Net: NetName=CF2 Pin=AND1-9
+Added Pin To Net: NetName=CF2 Pin=AND1-13
+Added Pin To Net: NetName=CF2 Pin=Fraction In1-4
+Added Pin To Net: NetName=CF2 Pin=NOT1-5
+Added Pin To Net: NetName=CF2 Pin=XOR1-2
+Added Net: Name=CF2
+Added Pin To Net: NetName=GND Pin=AND1-7
+Added Pin To Net: NetName=GND Pin=AND2-7
+Added Pin To Net: NetName=GND Pin=Fraction1-A2
+Added Pin To Net: NetName=GND Pin=NOT1-7
+Added Pin To Net: NetName=GND Pin=OR1-7
+Added Pin To Net: NetName=GND Pin=Power1-2
+Added Pin To Net: NetName=GND Pin=RPI1-3
+Added Pin To Net: NetName=GND Pin=Sign flag1-2
+Added Pin To Net: NetName=GND Pin=XOR1-7
+Added Pin To Net: NetName=GND Pin=Zero flag1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=OutLSB Pin=Fraction1-B2
+Added Pin To Net: NetName=OutLSB Pin=OR1-8
+Added Net: Name=OutLSB
+Added Pin To Net: NetName=OutMSB Pin=AND2-3
+Added Pin To Net: NetName=OutMSB Pin=Fraction1-C2
+Added Net: Name=OutMSB
+Added Pin To Net: NetName=RPI Switch Pin=Fraction1-Vcc
+Added Pin To Net: NetName=RPI Switch Pin=RPI1-2
+Added Net: Name=RPI Switch
+Added Pin To Net: NetName=Sign Pin=Power1-3
+Added Pin To Net: NetName=Sign Pin=Sign flag1-1
+Added Net: Name=Sign
+Added Pin To Net: NetName=Vcc Pin=AND1-14
+Added Pin To Net: NetName=Vcc Pin=AND2-14
+Added Pin To Net: NetName=Vcc Pin=Fraction1-A3
+Added Pin To Net: NetName=Vcc Pin=Fraction1-B3
+Added Pin To Net: NetName=Vcc Pin=Fraction1-B4
+Added Pin To Net: NetName=Vcc Pin=NOT1-14
+Added Pin To Net: NetName=Vcc Pin=OR1-14
+Added Pin To Net: NetName=Vcc Pin=Power1-1
+Added Pin To Net: NetName=Vcc Pin=RPI1-1
+Added Pin To Net: NetName=Vcc Pin=XOR1-14
+Added Net: Name=Vcc
+Added Pin To Net: NetName=Zero flag Pin=NOT1-10
+Added Pin To Net: NetName=Zero flag Pin=Zero flag1-1
+Added Net: Name=Zero flag
+Added Pin To Net: NetName=~(CF0^CF2) Pin=AND1-2
+Added Pin To Net: NetName=~(CF0^CF2) Pin=NOT1-12
+Added Net: Name=~(CF0^CF2)
+Added Pin To Net: NetName=~CF0&CF1&CF2 Pin=AND1-11
+Added Pin To Net: NetName=~CF0&CF1&CF2 Pin=OR1-1
+Added Net: Name=~CF0&CF1&CF2
+Added Pin To Net: NetName=~CF0&CF1&~CF2 Pin=AND2-11
+Added Pin To Net: NetName=~CF0&CF1&~CF2 Pin=OR1-13
+Added Net: Name=~CF0&CF1&~CF2
+Added Pin To Net: NetName=~CF0&CF1 Pin=AND1-12
+Added Pin To Net: NetName=~CF0&CF1 Pin=AND2-8
+Added Pin To Net: NetName=~CF0&CF1 Pin=AND2-13
+Added Net: Name=~CF0&CF1
+Added Pin To Net: NetName=~CF0 Pin=AND2-10
+Added Pin To Net: NetName=~CF0 Pin=NOT1-2
+Added Net: Name=~CF0
+Added Pin To Net: NetName=~CF1&(CF0^CF2) Pin=AND1-6
+Added Pin To Net: NetName=~CF1&(CF0^CF2) Pin=OR1-10
+Added Net: Name=~CF1&(CF0^CF2)
+Added Pin To Net: NetName=~CF1 Pin=AND1-4
+Added Pin To Net: NetName=~CF1 Pin=AND2-5
+Added Pin To Net: NetName=~CF1 Pin=NOT1-4
+Added Net: Name=~CF1
+Added Pin To Net: NetName=~CF2 Pin=AND2-12
+Added Pin To Net: NetName=~CF2 Pin=NOT1-6
+Added Net: Name=~CF2
+Added Pin To Net: NetName=~Zero flag Pin=Fraction In1-1
+Added Pin To Net: NetName=~Zero flag Pin=NOT1-11
+Added Net: Name=~Zero flag
+Added Class: Name=fraction layer
+Added Room: Name=fraction layer

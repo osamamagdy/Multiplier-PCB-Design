@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 1-1
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 1-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 1-4
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 1-9
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 1-10
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 2-1
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 2-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 2-4
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 2-9
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 2-10
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 3-1
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 3-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 3-4
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 3-9
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 3-10
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 4-1
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 4-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 4-4
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 4-9
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 4-10
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 5-1
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 5-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 5-4
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 5-9
+Removed Pin From Net: NetName=NetAND 1_1 Pin=AND 5-10
+Removed Pin From Net: NetName=NetAND 1_1 Pin=Input Switch1-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=Input Switch2-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=Input Switch3-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=Input Switch4-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=Input Switch5-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=Input Switch7-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=Input Switch8-2
+Removed Pin From Net: NetName=NetAND 1_1 Pin=R2-2
+Change Component Designator: OldDesignator=Input Switch1 NewDesignator=A1
+Change Component Designator: OldDesignator=Input Switch2 NewDesignator=A2
+Change Component Designator: OldDesignator=Input Switch3 NewDesignator=A3
+Change Component Designator: OldDesignator=Input Switch4 NewDesignator=AF1
+Change Component Designator: OldDesignator=Input Switch5 NewDesignator=AF2
+Change Component Designator: OldDesignator=Input Switch6 NewDesignator=B1
+Change Component Designator: OldDesignator=Input Switch7 NewDesignator=B2
+Change Component Designator: OldDesignator=Input Switch8 NewDesignator=BF1
+Change Net Name : Old Net Name=NetAND 1_1 New Net Name=NetAND 1_5
+Change Net Name : Old Net Name=NetAND 1_14 New Net Name=NetA1_1
+Added Pin To Net: NetName=NetA1_2 Pin=A1-2
+Added Pin To Net: NetName=NetA1_2 Pin=AND 1-1
+Added Pin To Net: NetName=NetA1_2 Pin=AND 1-4
+Added Pin To Net: NetName=NetA1_2 Pin=AND 1-9
+Added Pin To Net: NetName=NetA1_2 Pin=R2-2
+Added Net: Name=NetA1_2
+Added Pin To Net: NetName=NetA2_2 Pin=A2-2
+Added Pin To Net: NetName=NetA2_2 Pin=AND 2-1
+Added Pin To Net: NetName=NetA2_2 Pin=AND 2-4
+Added Pin To Net: NetName=NetA2_2 Pin=AND 2-9
+Added Net: Name=NetA2_2
+Added Pin To Net: NetName=NetA3_2 Pin=A3-2
+Added Pin To Net: NetName=NetA3_2 Pin=AND 3-1
+Added Pin To Net: NetName=NetA3_2 Pin=AND 3-4
+Added Pin To Net: NetName=NetA3_2 Pin=AND 3-9
+Added Net: Name=NetA3_2
+Added Pin To Net: NetName=NetAF1_2 Pin=AF1-2
+Added Pin To Net: NetName=NetAF1_2 Pin=AND 4-1
+Added Pin To Net: NetName=NetAF1_2 Pin=AND 4-4
+Added Pin To Net: NetName=NetAF1_2 Pin=AND 4-9
+Added Net: Name=NetAF1_2
+Added Pin To Net: NetName=NetAF2_2 Pin=AF2-2
+Added Pin To Net: NetName=NetAF2_2 Pin=AND 5-1
+Added Pin To Net: NetName=NetAF2_2 Pin=AND 5-4
+Added Pin To Net: NetName=NetAF2_2 Pin=AND 5-9
+Added Net: Name=NetAF2_2
+Added Pin To Net: NetName=NetAND 1_2 Pin=AND 1-2
+Added Pin To Net: NetName=NetAND 1_2 Pin=AND 2-2
+Added Pin To Net: NetName=NetAND 1_2 Pin=AND 3-2
+Added Pin To Net: NetName=NetAND 1_2 Pin=AND 4-2
+Added Pin To Net: NetName=NetAND 1_2 Pin=AND 5-2
+Added Pin To Net: NetName=NetAND 1_2 Pin=B2-2
+Added Net: Name=NetAND 1_2
+Added Pin To Net: NetName=NetAND 1_10 Pin=AND 1-10
+Added Pin To Net: NetName=NetAND 1_10 Pin=AND 2-10
+Added Pin To Net: NetName=NetAND 1_10 Pin=AND 3-10
+Added Pin To Net: NetName=NetAND 1_10 Pin=AND 4-10
+Added Pin To Net: NetName=NetAND 1_10 Pin=AND 5-10
+Added Pin To Net: NetName=NetAND 1_10 Pin=BF1-2
+Added Net: Name=NetAND 1_10
+Added Room: Name=Sheet1

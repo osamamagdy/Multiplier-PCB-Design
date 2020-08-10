@@ -1,0 +1,12 @@
+Added Component: Designator=1(74283)
+Add component. Clean all parameters for all variants
+Added Component: Designator=4 bit-binary adder(7483)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component 1 Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component 4 bit-binary adder Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component A0
+Added Member To Class: ClassName=Sheet1 Member=Component A1
+Added Member To Class: ClassName=Sheet1 Member=Component A2
+Added Member To Class: ClassName=Sheet1 Member=Component AF0
+Added Member To Class: ClassName=Sheet1 Member=Component AF1
+Added Room: Name=Sheet1

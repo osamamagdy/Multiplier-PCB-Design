@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Sheet1 Member=A5
+Removed Member From Class: ClassName=Sheet1 Member=A6
+Change Component Designator: OldDesignator=A4 NewDesignator=A2
+Change Component Designator: OldDesignator=A5 NewDesignator=A1
+Change Component Designator: OldDesignator=A6 NewDesignator=A0
+Change Component Designator: OldDesignator=AF1 NewDesignator=AF0
+Change Component Designator: OldDesignator=AF2 NewDesignator=AF1
+Change Component Designator: OldDesignator=AF3 NewDesignator=AF0
+Change Component Designator: OldDesignator=AF4 NewDesignator=AF1
+Change Component Designator: OldDesignator=BF1 NewDesignator=BF0
+Change Net Name : Old Net Name=NetA0_2 New Net Name=NetA0_1
+Change Net Name : Old Net Name=NetA1_2 New Net Name=NetA1_1
+Change Net Name : Old Net Name=NetA2_2 New Net Name=NetA2_1
+Change Net Name : Old Net Name=NetA4_2 New Net Name=NetA0_2
+Change Net Name : Old Net Name=NetA4_7 New Net Name=NetA0_7
+Change Net Name : Old Net Name=NetA4_10 New Net Name=NetA0_10
+Change Net Name : Old Net Name=NetAF1_2 New Net Name=NetAF0_1
+Change Net Name : Old Net Name=NetAF2_2 New Net Name=NetAF1_1
+Added Member To Class: ClassName=Sheet1 Member=Component A0
+Added Member To Class: ClassName=Sheet1 Member=Component A1
+Added Room: Name=Sheet1

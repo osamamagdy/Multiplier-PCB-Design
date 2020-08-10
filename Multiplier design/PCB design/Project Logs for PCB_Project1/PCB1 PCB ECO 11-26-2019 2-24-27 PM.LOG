@@ -1,0 +1,186 @@
+Added Component: Designator=Adder 1(HDR2X3_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Adder 2(HDR2X3_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Adder 3(HDR2X3_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Adder 4(HDR2X3_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Adder 5(HDR2X3_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=AND 1(HDR2X7_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=AND 2(HDR2X7_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=AND 3(HDR2X7_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=AND 4(HDR2X7_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=AND 5(HDR2X7_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Input1(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Input2(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=OR 1(HDR2X7_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=power 1(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=XOR 1(HDR2X7_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetAdder 1_1 Pin=Adder 1-1
+Added Pin To Net: NetName=NetAdder 1_1 Pin=AND 5-2
+Added Pin To Net: NetName=NetAdder 1_1 Pin=AND 5-5
+Added Pin To Net: NetName=NetAdder 1_1 Pin=AND 5-13
+Added Pin To Net: NetName=NetAdder 1_1 Pin=AND 5-14
+Added Pin To Net: NetName=NetAdder 1_1 Pin=Input1-5
+Added Net: Name=NetAdder 1_1
+Added Pin To Net: NetName=NetAdder 1_2 Pin=Adder 1-2
+Added Pin To Net: NetName=NetAdder 1_2 Pin=AND 1-3
+Added Net: Name=NetAdder 1_2
+Added Pin To Net: NetName=NetAdder 1_5 Pin=Adder 1-5
+Added Pin To Net: NetName=NetAdder 1_5 Pin=Adder 5-1
+Added Net: Name=NetAdder 1_5
+Added Pin To Net: NetName=NetAdder 2_1 Pin=Adder 2-1
+Added Pin To Net: NetName=NetAdder 2_1 Pin=Adder 3-5
+Added Net: Name=NetAdder 2_1
+Added Pin To Net: NetName=NetAdder 2_2 Pin=Adder 2-2
+Added Pin To Net: NetName=NetAdder 2_2 Pin=AND 2-3
+Added Net: Name=NetAdder 2_2
+Added Pin To Net: NetName=NetAdder 3_1 Pin=Adder 3-1
+Added Pin To Net: NetName=NetAdder 3_1 Pin=Adder 4-5
+Added Net: Name=NetAdder 3_1
+Added Pin To Net: NetName=NetAdder 3_2 Pin=Adder 3-2
+Added Pin To Net: NetName=NetAdder 3_2 Pin=AND 1-7
+Added Pin To Net: NetName=NetAdder 3_2 Pin=AND 2-7
+Added Pin To Net: NetName=NetAdder 3_2 Pin=AND 3-7
+Added Pin To Net: NetName=NetAdder 3_2 Pin=AND 4-7
+Added Pin To Net: NetName=NetAdder 3_2 Pin=AND 5-7
+Added Pin To Net: NetName=NetAdder 3_2 Pin=power 1-2
+Added Net: Name=NetAdder 3_2
+Added Pin To Net: NetName=NetAdder 3_3 Pin=Adder 3-3
+Added Pin To Net: NetName=NetAdder 3_3 Pin=AND 2-14
+Added Net: Name=NetAdder 3_3
+Added Pin To Net: NetName=NetAdder 4_1 Pin=Adder 4-1
+Added Pin To Net: NetName=NetAdder 4_1 Pin=Adder 5-5
+Added Net: Name=NetAdder 4_1
+Added Pin To Net: NetName=NetAdder 4_2 Pin=Adder 4-2
+Added Pin To Net: NetName=NetAdder 4_2 Pin=Adder 5-2
+Added Pin To Net: NetName=NetAdder 4_2 Pin=AND 4-3
+Added Pin To Net: NetName=NetAdder 4_2 Pin=AND 5-3
+Added Net: Name=NetAdder 4_2
+Added Pin To Net: NetName=NetAdder 4_3 Pin=Adder 4-3
+Added Pin To Net: NetName=NetAdder 4_3 Pin=AND 3-14
+Added Net: Name=NetAdder 4_3
+Added Pin To Net: NetName=NetAdder 5_3 Pin=Adder 5-3
+Added Pin To Net: NetName=NetAdder 5_3 Pin=AND 4-14
+Added Net: Name=NetAdder 5_3
+Added Pin To Net: NetName=NetAND 1_1 Pin=AND 1-1
+Added Pin To Net: NetName=NetAND 1_1 Pin=AND 2-1
+Added Pin To Net: NetName=NetAND 1_1 Pin=AND 3-1
+Added Pin To Net: NetName=NetAND 1_1 Pin=AND 4-1
+Added Pin To Net: NetName=NetAND 1_1 Pin=AND 5-1
+Added Pin To Net: NetName=NetAND 1_1 Pin=Input2-3
+Added Net: Name=NetAND 1_1
+Added Pin To Net: NetName=NetAND 1_2 Pin=AND 1-2
+Added Pin To Net: NetName=NetAND 1_2 Pin=AND 1-5
+Added Pin To Net: NetName=NetAND 1_2 Pin=AND 1-13
+Added Pin To Net: NetName=NetAND 1_2 Pin=Input1-6
+Added Net: Name=NetAND 1_2
+Added Pin To Net: NetName=NetAND 1_4 Pin=AND 1-4
+Added Pin To Net: NetName=NetAND 1_4 Pin=AND 2-4
+Added Pin To Net: NetName=NetAND 1_4 Pin=AND 3-5
+Added Pin To Net: NetName=NetAND 1_4 Pin=AND 4-4
+Added Pin To Net: NetName=NetAND 1_4 Pin=AND 5-4
+Added Pin To Net: NetName=NetAND 1_4 Pin=Input2-2
+Added Net: Name=NetAND 1_4
+Added Pin To Net: NetName=NetAND 1_8 Pin=AND 1-8
+Added Pin To Net: NetName=NetAND 1_8 Pin=AND 2-8
+Added Pin To Net: NetName=NetAND 1_8 Pin=AND 3-8
+Added Pin To Net: NetName=NetAND 1_8 Pin=AND 4-8
+Added Pin To Net: NetName=NetAND 1_8 Pin=AND 5-8
+Added Pin To Net: NetName=NetAND 1_8 Pin=power 1-1
+Added Net: Name=NetAND 1_8
+Added Pin To Net: NetName=NetAND 1_12 Pin=AND 1-12
+Added Pin To Net: NetName=NetAND 1_12 Pin=AND 2-12
+Added Pin To Net: NetName=NetAND 1_12 Pin=AND 3-12
+Added Pin To Net: NetName=NetAND 1_12 Pin=AND 4-12
+Added Pin To Net: NetName=NetAND 1_12 Pin=AND 5-12
+Added Pin To Net: NetName=NetAND 1_12 Pin=Input2-4
+Added Net: Name=NetAND 1_12
+Added Pin To Net: NetName=NetAND 2_2 Pin=AND 2-2
+Added Pin To Net: NetName=NetAND 2_2 Pin=AND 2-5
+Added Pin To Net: NetName=NetAND 2_2 Pin=AND 2-13
+Added Pin To Net: NetName=NetAND 2_2 Pin=Input1-2
+Added Net: Name=NetAND 2_2
+Added Pin To Net: NetName=NetAND 3_2 Pin=AND 3-2
+Added Pin To Net: NetName=NetAND 3_2 Pin=AND 3-4
+Added Pin To Net: NetName=NetAND 3_2 Pin=AND 3-13
+Added Pin To Net: NetName=NetAND 3_2 Pin=Input1-3
+Added Net: Name=NetAND 3_2
+Added Pin To Net: NetName=NetAND 4_2 Pin=AND 4-2
+Added Pin To Net: NetName=NetAND 4_2 Pin=AND 4-5
+Added Pin To Net: NetName=NetAND 4_2 Pin=AND 4-13
+Added Pin To Net: NetName=NetAND 4_2 Pin=Input1-4
+Added Net: Name=NetAND 4_2
+Added Member To Class: ClassName=Sheet1 Member=Component Adder 1 Full adder
+Added Member To Class: ClassName=Sheet1 Member=Component Adder 2 Full adder
+Added Member To Class: ClassName=Sheet1 Member=Component Adder 3 Full adder
+Added Member To Class: ClassName=Sheet1 Member=Component Adder 4 Full adder
+Added Member To Class: ClassName=Sheet1 Member=Component Adder 5 Full adder
+Added Member To Class: ClassName=Sheet1 Member=Component AND 1 AF1 multiply
+Added Member To Class: ClassName=Sheet1 Member=Component AND 2 A2 multiply
+Added Member To Class: ClassName=Sheet1 Member=Component AND 3 A1 multiply
+Added Member To Class: ClassName=Sheet1 Member=Component AND 4 A0 multiply
+Added Member To Class: ClassName=Sheet1 Member=Component AND 5 AF0 multiply
+Added Member To Class: ClassName=Sheet1 Member=Component Input1 Header 6
+Added Member To Class: ClassName=Sheet1 Member=Component Input2 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component OR 1 Header 7X2A
+Added Member To Class: ClassName=Sheet1 Member=Component power 1 power
+Added Member To Class: ClassName=Sheet1 Member=Component XOR 1 Header 7X2A
+Added Room: Name=Sheet1

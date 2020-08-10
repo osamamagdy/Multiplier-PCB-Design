@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetA0_7 Pin=R2-1
+Removed Pin From Net: NetName=NetA2_1 Pin=R2-2
+Removed Pin From Net: NetName=NetA0_7 Pin=R3-1
+Removed Pin From Net: NetName=NetA1_1 Pin=R3-2
+Removed Pin From Net: NetName=NetA0_7 Pin=R4-1
+Removed Pin From Net: NetName=NetA0_7 Pin=R5-1
+Removed Pin From Net: NetName=NetAF0_1 Pin=R5-2
+Removed Pin From Net: NetName=NetA0_7 Pin=R6-1
+Removed Pin From Net: NetName=NetAF1_1 Pin=R6-2
+Removed Pin From Net: NetName=NetA0_7 Pin=R7-1
+Removed Pin From Net: NetName=NetA0_7 Pin=R8-1
+Removed Pin From Net: NetName=NetA0_2 Pin=R8-2
+Removed Pin From Net: NetName=NetA0_7 Pin=R9-1
+Removed Pin From Net: NetName=NetA0_10 Pin=R9-2
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Removed Member From Class: ClassName=Sheet1 Member=R7
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Added Pin To Net: NetName=NetA0_7 Pin=A0-3
+Added Pin To Net: NetName=NetA0_7 Pin=A1-3
+Added Pin To Net: NetName=NetA0_7 Pin=A2-3
+Added Pin To Net: NetName=NetA0_7 Pin=AF0-3
+Added Pin To Net: NetName=NetA0_7 Pin=AF1-3
+Added Pin To Net: NetName=NetA0_7 Pin=B0-3
+Added Pin To Net: NetName=NetA0_7 Pin=B1-3
+Added Pin To Net: NetName=NetA0_7 Pin=BF0-3
+Change Net Name : Old Net Name=NetA0_7 New Net Name=GND
+Added Member To Class: ClassName=Sheet1 Member=Component A0
+Added Member To Class: ClassName=Sheet1 Member=Component A1
+Added Member To Class: ClassName=Sheet1 Member=Component A2
+Added Member To Class: ClassName=Sheet1 Member=Component AF0
+Added Member To Class: ClassName=Sheet1 Member=Component AF1
+Added Room: Name=Sheet1

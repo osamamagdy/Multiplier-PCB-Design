@@ -1,0 +1,12 @@
+Remove Pin=P1-1 From Net=BF0*AF0
+Remove Pin=P1-2 From Net=Half adder Sum
+Remove Pin=P1-3 From Net=2C1
+Remove Pin=P1-4 From Net=2C2
+Remove Pin=P1-5 From Net=2C3
+Remove Pin=P1-6 From Net=2C4
+Remove Pin=P1-7 From Net=Full adder sum
+Remove Pin=P1-8 From Net=Full adder carry
+Remove Pin=P1-9 From Net=SC
+Remove Pin=P1-10 From Net=~zero flag
+Remove Pin=P1-11 From Net=Vcc
+Remove Pin=P1-12 From Net=GND
